@@ -1,0 +1,5 @@
+*.py[oc]
+__pycache__/
+.cache/
+*.db
+*.sqlite3
